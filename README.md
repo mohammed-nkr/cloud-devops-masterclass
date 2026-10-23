@@ -1,21 +1,22 @@
 Cloud and DevOps Engineering Masterclass
 
-Goal: Fast-track transition from QA Automation to Cloud and DevOps Engineering with AI assist.
+Goal: Fast-track transition to Cloud and DevOps Engineering with AI assist.
 
 Phase 1: Core Essentials
-- Linux and Terminal: Basic commands, permissions, SSH, troubleshooting.
-- Git, GitHub, and Bash: Version control, branching, shell scripting.
-- Networking: IP, DNS, ports, HTTP, firewalls, subnets.
+- Linux and Terminal: Shell navigation, file management, permissions, SSH, logs, process monitoring.
+- Git & GitHub: Version control workflows, branching strategies, merge conflicts, Pull Requests.
+- Networking Fundamentals: IP addressing, DNS, ports, HTTP/HTTPS, firewalls, subnets, NAT.
 
 Phase 2: AWS Cloud Core
-- Compute and Storage: EC2, S3, EBS, RDS databases.
-- Networking and Security: VPC setup, subnets, IAM roles, security groups.
+- Compute & Storage: EC2 instances, S3 buckets, EBS volumes, RDS databases.
+- Networking & Security: Custom VPC design, public/private subnets, Security Groups, IAM policies.
 
 Phase 3: Infrastructure as Code (IaC)
-- Terraform and AI: Writing HCL code, S3 remote state management.
+- Terraform & AI: Writing HCL code, state management, S3 remote backends, modularizing infrastructure.
 
-Phase 4: Containers and Orchestration
-- Docker and Kubernetes: Dockerfiles, Docker Compose, Pods, Deployments, Services.
+Phase 4: Containers & Orchestration
+- Docker & Kubernetes: Dockerfiles, image optimization, multi-container setups, Pods, Deployments, Services.
 
-Phase 5: CI/CD and Capstone
-- CI/CD Pipelines: GitHub Actions, running Selenium QA tests, end-to-end automated deployment.
+Phase 5: CI/CD Pipelines & Real-World Capstone
+- GitHub Actions: Building automated workflows, artifact storage, automated test suite triggers, AWS deployments.
+- Capstone Project: Automated deployment of a multi-tier web application using Terraform, Docker, and GitHub Actions.
