@@ -41,3 +41,8 @@ A quick-reference guide for core Linux commands used in Cloud & DevOps engineeri
 * `top` or `htop` — View real-time system resource utilization (CPU, memory) and active processes.
 * `ps aux` — List all running processes across the system.
 * `whoami` — Display the username of the currently logged-in user.
+
+* ===============================================
+* Hello world! My teacher Mr. Gemini is teaching me the devops!
+* Branch workflow tested successfully!
+* ===============================================
